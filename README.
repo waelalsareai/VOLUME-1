@@ -1,0 +1,33 @@
+# Volume Assignment
+
+**Name:** Wael Alsareai  
+**Class:** CS161 – Computer Science 1  
+**Date:** October 8, 2025  
+
+## Description
+This program converts teaspoons into larger units (tablespoons, cups, and quarts). It asks the user for the number of teaspoons and prints the breakdown.
+
+## How to Compile and Run
+```bash
+make
+./volume
+Work Log
+
+Wrote conversion code in main.cpp
+
+Created and tested the Makefile
+
+Generated and saved program output in output.txt
+
+Verified formatting matches assignment requirements
+Enter the number of teaspoons: 500
+2 quart(s)
+2 cup(s)
+6 tablespoon(s)
+2 teaspoon(s)
+Enter the number of teaspoons: 16
+0 quart(s)
+1 cup(s)
+0 tablespoon(s)
+0 teaspoon(s)
+
